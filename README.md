@@ -1,6 +1,6 @@
 # Hi there, I'm Julian! 👋
 
-![Profile Banner](https://your-cool-banner-url.com/banner.png)
+![Profile Banner](https://github.com/j-u-s-t-j-u-l-e-s/j-u-s-t-j-u-l-e-s/blob/663e026c7b13520aa3acfb40237bf0609798f5e1/Screenshot.webp)
 
 
 ## 🛠 Tech Stack
@@ -20,7 +20,8 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julian-cowie-willox/)
 [![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/j-u-s-t-j-u-l-e-s)
 
-## 📈 GitHub Stats (probs should'nt have set me email to private so commits were with my email and not no-reply)
+## 📈 GitHub Stats
+probs should'nt have set me email to private so commits were with my email and not no-reply
 
 <table align="center">
   <tr>
