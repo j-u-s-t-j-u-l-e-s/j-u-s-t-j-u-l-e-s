@@ -2,6 +2,10 @@
 
 ![Profile Banner](https://github.com/j-u-s-t-j-u-l-e-s/j-u-s-t-j-u-l-e-s/blob/663e026c7b13520aa3acfb40237bf0609798f5e1/Screenshot.webp)
 
+<div align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake" />
+</div>
+
 
 ## 🛠 Tech Stack
 
