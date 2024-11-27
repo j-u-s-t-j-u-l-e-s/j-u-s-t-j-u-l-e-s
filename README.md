@@ -1,5 +1,3 @@
-# Hi there, I'm Julian! 👋
-
 ![Profile Banner](https://github.com/j-u-s-t-j-u-l-e-s/j-u-s-t-j-u-l-e-s/blob/663e026c7b13520aa3acfb40237bf0609798f5e1/Screenshot.webp)
 
 <div align="center">
@@ -19,13 +17,11 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-blue?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-## 🌐 Let's Connect
-
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julian-cowie-willox/)
 [![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/j-u-s-t-j-u-l-e-s)
 
 ## 📈 GitHub Stats
-probs should'nt have set me email to private so commits were with my email and not no-reply
+Probs should'nt have set my email to private so commits were with my email and not no-reply
 
 <table align="center">
   <tr>
